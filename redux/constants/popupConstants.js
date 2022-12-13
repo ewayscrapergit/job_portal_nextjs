@@ -1,0 +1,1 @@
+export const POPUP_CLOSE = "POPUP_CLOSE"

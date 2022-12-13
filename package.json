@@ -1,0 +1,42 @@
+{
+  "name": "job_portal_nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.1",
+    "formik": "^2.2.9",
+    "i18next": "^22.0.6",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "i18next-http-backend": "^2.0.1",
+    "interweave": "^13.0.0",
+    "jquery": "^3.6.1",
+    "js-file-download": "^0.4.12",
+    "next": "12.3.0",
+    "react": "18.2.0",
+    "react-datepicker": "^4.8.0",
+    "react-dom": "18.2.0",
+    "react-flags-select": "^2.2.3",
+    "react-i18next": "^12.0.0",
+    "react-paginate": "^8.1.4",
+    "react-redux": "^8.0.4",
+    "react-shimmer-effects": "^1.0.2",
+    "react-slick": "^0.29.0",
+    "redux": "^4.2.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1",
+    "slick-carousel": "^1.8.1",
+    "sweetalert2": "^11.4.35",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.0"
+  }
+}
